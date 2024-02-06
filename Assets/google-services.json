@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261628777308",
+    "project_id": "oasistimeless-49a3b",
+    "storage_bucket": "oasistimeless-49a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261628777308:android:c7d80924bbe43108eb2799",
+        "android_client_info": {
+          "package_name": "com.OasisCompany.OasisTimeLess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261628777308-6htcvr6mfm9m19t742jk7ofms3diuna0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.OasisCompany.OasisTimeLess",
+            "certificate_hash": "7720984271b04844526208ee563e5e744a8e6926"
+          }
+        },
+        {
+          "client_id": "261628777308-d49mh9jscmj7reiv05juc0o00c7dkolp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PDMZ6I8D35zf6G7IKnRTLul747yIFVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261628777308-d49mh9jscmj7reiv05juc0o00c7dkolp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
